@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning and Mobile Dev**
 
-- 👨‍💻 All of my projects are available at [https://koayenay.github.io/Portfolio/](https://koayenay.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [www.arfanmyint.com](www.arfanmyint.com)
 
 - 💬 Ask me about **ReactJS, Java, Javascript**
 
